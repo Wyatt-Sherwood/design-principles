@@ -24,7 +24,7 @@ header {
   grid-column: span 3;
   padding: 30px;
   text-align: center;
-  font-size: 1.4em;
+  font-size: 2em;
   background-color: #2C41CC;
   color: white;
 }
@@ -59,7 +59,7 @@ footer {
   grid-column: span 3;
   padding: 30px;
   text-align: center;
-  font-size: 1.4em;
+  font-size: 2em;
   background-color: #2C41CC;
   color: white;
 }
