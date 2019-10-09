@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display&display=swap');
+
 body {
-  font-family: arial;
+  font-family: 'Big Shoulders Display', cursive;
 }
 
 .container {
@@ -23,7 +25,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #2F65CC;
+  background-color: #2C41CC;
   color: white;
 }
 
@@ -33,7 +35,7 @@ main {
 }
 
 nav {
-  background-color: #E87722;
+  background-color: #D64D0F;
   padding: 20px;
 
 }
@@ -45,7 +47,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #75787B;
+  background-color: #418016;
   color: white;
 }
 
@@ -58,7 +60,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #2F65CC;
+  background-color: #2C41CC;
   color: white;
 }
 
