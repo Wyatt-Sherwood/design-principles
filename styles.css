@@ -25,7 +25,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 2em;
-  background-color: #2C41CC;
+  background-color: #3D4447;
   color: white;
 }
 
@@ -35,7 +35,7 @@ main {
 }
 
 nav {
-  background-color: #D2AD63;
+  background-color: #BC270D;
   padding: 20px;
 
 }
@@ -47,7 +47,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color: #FF9C1F;
+  background-color: #BC270D;
   color: white;
 }
 
@@ -60,7 +60,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 2em;
-  background-color: #2C41CC;
+  background-color: #3D4447;
   color: white;
 }
 
